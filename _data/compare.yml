@@ -1,0 +1,25 @@
+# _data/compare.yml
+topics:
+  - key: "public_narratives"
+    label: "Public Narratives"
+    nyc: "Dense media ecosystem; neighborhood-level storytelling; immigrant press traditions."
+    ca: "Statewide narratives vary—tech corridors, agricultural regions, and border communities."
+    note: "Summarize themes; add citations later."
+
+  - key: "cultural_institutions"
+    label: "Cultural Institutions"
+    nyc: "Libraries, museums, archives clustered; strong public programs in borough systems."
+    ca: "Distributed across major metros (SF, LA, SD); rich UC system libraries/archives."
+    note: "Point to specific institutions when you add references."
+
+  - key: "health_access"
+    label: "Health Access & Policy"
+    nyc: "City-backed programs; dense hospital network; community health orgs."
+    ca: "Large Medi-Cal program; county variation; community clinics ecosystem."
+    note: "Replace with sourced facts as you refine."
+
+  - key: "humanities_methods"
+    label: "Humanities Methods"
+    nyc: "Oral histories, urban ethnography, neighborhood archives."
+    ca: "Narratives across migration/agrarian histories; multilingual oral histories."
+    note: "List methods you know; link to examples later."
