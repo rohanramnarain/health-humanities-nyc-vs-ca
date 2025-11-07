@@ -3,7 +3,7 @@ title: "NYC vs California — Health & Humanities"
 description: "A minimal static site comparing public narratives, cultural institutions, and health access through a humanities lens."
 # For a project site (not username.github.io), set your baseurl to "/<repo-name>"
 baseurl: "/health-humanities-nyc-vs-ca"
-url: "https://<your-username>.github.io"  # no trailing slash
+url: "https://rohanramnarain.github.io"  # no trailing slash
 
 theme: minima
 
