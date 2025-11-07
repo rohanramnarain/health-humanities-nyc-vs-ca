@@ -11,4 +11,4 @@ Below is a quick, human-readable comparison that’s generated from a small data
   {% include card.html title=t.label nyc=t.nyc ca=t.ca note=t.note %}
 {% endfor %}
 
-> **Tip:** This site is deliberately minimal. Add citations/links as you refine.
+> 
