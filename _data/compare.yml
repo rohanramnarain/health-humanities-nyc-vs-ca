@@ -2,24 +2,70 @@
 topics:
   - key: "public_narratives"
     label: "Public Narratives"
-    nyc: "Dense media ecosystem; neighborhood-level storytelling; immigrant press traditions."
-    ca: "Statewide narratives vary—tech corridors, agricultural regions, and border communities."
-    note: "Summarize themes; add citations later."
+    nyc: >
+      New York City actively partners with a wide array of **Ethnic & Community Media (ECM)** outlets—reflecting neighborhood- and language-specific news traditions. Local Law 83 (2021) set a city goal for agencies to place at least **50%** of in-scope advertising with ECM outlets, and the Mayor’s Office maintains a public directory.
+    ca: >
+      California’s cultural memory is **highly distributed** across regions. The **California Digital Library** operates statewide platforms like **Calisphere** (now 2.1M+ digitized items) and the **Online Archive of California (OAC)** (60,000+ collection guides) that surface local narratives from hundreds of institutions.
+    sources:
+      - label: MOECM (Mayor’s Office of Ethnic & Community Media)
+        url: https://www.nyc.gov/site/ethnicmedia/index.page
+      - label: Citywide Marketing Directory (LL83)
+        url: https://www.nyc.gov/site/ethnicmedia/directory/citywide-marketing-directory.page
+      - label: MOECM FY22 report (context)
+        url: https://www.nyc.gov/assets/ethnicmedia/downloads/pdf/MOECM_FY22_Report.pdf
+      - label: Calisphere (California Digital Library)
+        url: https://calisphere.org/
+      - label: Online Archive of California (OAC)
+        url: https://oac.cdlib.org/
 
   - key: "cultural_institutions"
     label: "Cultural Institutions"
-    nyc: "Libraries, museums, archives clustered; strong public programs in borough systems."
-    ca: "Distributed across major metros (SF, LA, SD); rich UC system libraries/archives."
-    note: "Point to specific institutions when you add references."
+    nyc: >
+      **NYPL** spans **88 neighborhood libraries + 4 research centers** across Manhattan, the Bronx, and Staten Island; the **NYC Municipal Archives** hosts vast digital collections, including **720k+ 1940s building tax photos**. Brooklyn Public Library and Queens Public Library add borough-wide reach.
+    ca: >
+      The **California State Library** and **California State Archives** publish extensive digital exhibits; major city systems like **Los Angeles Public Library** run large special collections and the **Tessa** digital library.
+    sources:
+      - label: NYPL locations (88 branches + 4 research centers)
+        url: https://www.nypl.org/about/locations
+      - label: NYC Municipal Archives — Digital Galleries
+        url: https://www.archives.nyc/
+      - label: California State Library — Online Collections
+        url: https://www.library.ca.gov/collections/online-collections/
+      - label: California State Archives — California Digital Archives
+        url: https://www.sos.ca.gov/archives/services/california-digital-archives
+      - label: Los Angeles Public Library — Special Collections / Tessa
+        url: https://www.lapl.org/branches/central-library/departments/special-collections/introduction
 
   - key: "health_access"
     label: "Health Access & Policy"
-    nyc: "City-backed programs; dense hospital network; community health orgs."
-    ca: "Large Medi-Cal program; county variation; community clinics ecosystem."
-    note: "Replace with sourced facts as you refine."
+    nyc: >
+      **NYC Health + Hospitals** is the nation’s **largest municipal health system**, serving **~1 million** New Yorkers annually across 70+ care sites. **NYC Care** guarantees low/no-cost services for residents who don’t qualify for or can’t afford insurance.
+    ca: >
+      **Medi-Cal** (California’s Medicaid) expanded on **Jan 1, 2024** to include **all income-eligible adults 26–49 regardless of immigration status**, completing age-based expansions. Medi-Cal covers **over one-third** of Californians; the **uninsured rate declined in CA from 2023 to 2024**.
+    sources:
+      - label: NYC Health + Hospitals — About (size & patients)
+        url: https://www.nychealthandhospitals.org/about-nyc-health-hospitals/
+      - label: NYC Care — program overview
+        url: https://www.nyccare.nyc/
+      - label: DHCS — Adult Expansion (Jan 1, 2024)
+        url: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/Adult-Expansion.aspx
+      - label: DHCS — Medi-Cal Enrollment (one-third of Californians)
+        url: https://www.dhcs.ca.gov/dataandstats/Pages/Medi-Cal-Eligibility-Statistics.aspx
+      - label: U.S. Census ACS Brief 2023→2024 (CA uninsured rate declined)
+        url: https://www2.census.gov/library/publications/2025/demo/acsbr-024.pdf
 
   - key: "humanities_methods"
     label: "Humanities Methods"
-    nyc: "Oral histories, urban ethnography, neighborhood archives."
-    ca: "Narratives across migration/agrarian histories; multilingual oral histories."
-    note: "List methods you know; link to examples later."
+    nyc: >
+      Longstanding **oral history** activity (e.g., **Columbia Center for Oral History Research** and the **Oral History Archives at Columbia**) anchors projects that combine life histories with urban change.
+    ca: >
+      **UCLA’s Center for Oral History Research** documents Los Angeles communities and social movements; **California Revealed** helps libraries and archives statewide digitize and publish oral histories and other heritage materials.
+    sources:
+      - label: Columbia Center for Oral History Research
+        url: https://incite.columbia.edu/centers/columbia-center-for-oral-history-research
+      - label: Oral History Archives at Columbia (overview)
+        url: https://library.columbia.edu/libraries/rbml/collecting/oral-history.html
+      - label: UCLA Center for Oral History Research
+        url: https://oralhistory.library.ucla.edu/
+      - label: California Revealed (State Library initiative)
+        url: https://californiarevealed.org/

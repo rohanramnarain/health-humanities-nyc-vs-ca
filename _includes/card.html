@@ -6,4 +6,18 @@
   {% if include.note %}
     <p style="margin:.25rem 0; font-size:.9rem; opacity:.8;"><em>Note:</em> {{ include.note }}</p>
   {% endif %}
+
+  {% assign topic = site.data.compare.topics | where: "label", include.title | first %}
+  {% if topic and topic.sources %}
+    <div style="margin-top:.5rem;">
+      <details>
+        <summary style="cursor:pointer; font-size:.95rem;">Sources</summary>
+        <ul style="margin:.25rem 0 0 1rem;">
+          {% for s in topic.sources %}
+            <li style="margin:.15rem 0;"><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label }}</a></li>
+          {% endfor %}
+        </ul>
+      </details>
+    </div>
+  {% endif %}
 </div>
